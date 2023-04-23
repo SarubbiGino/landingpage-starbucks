@@ -6,11 +6,11 @@ React <br/>
 Vite <br/>
 TypeScript <br/>
 ## Instalación y uso <br/>
-Clonar este repositorio en tu computadora.
-En la terminal, navegar hasta el directorio del proyecto.
-Ejecutar el comando npm install para instalar todas las dependencias.
-Ejecutar el comando npm run dev para iniciar el servidor local.
-Abrir el navegador e ingresar a la dirección http://localhost:3000 para ver la página.<br/>
+Clonar este repositorio en tu computadora.<br/>
+En la terminal, navegar hasta el directorio del proyecto.<br/>
+Ejecutar el comando npm install para instalar todas las dependencias.<br/>
+Ejecutar el comando npm run dev para iniciar el servidor local.<br/>
+Abrir el navegador e ingresar a la dirección http://localhost:5173 para ver la página.<br/>
 ## Scripts disponibles<br/>
 dev: inicia el servidor de desarrollo de Vite.
 build: compila el proyecto para producción.
