@@ -1,5 +1,5 @@
 # Starbucks Landing Page
-Este es un proyecto de una página web estática tipo landing page para Starbucks. El objetivo de proyecto fue hacer mas amigable el aspecto de la pagina, mostrar un poco mas el logo y un aspecto minimalista.
+Este es un proyecto de una página web estática tipo landing page para Starbucks. El objetivo de proyecto fue hacer mas amigable el aspecto de la pagina, mostrar un poco mas el logo de la marca e incorporar un aspecto minimalista.
 
 ## Tecnologías utilizadas
 React <br/>
