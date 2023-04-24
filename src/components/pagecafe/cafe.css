@@ -1,0 +1,49 @@
+.mainCafe{
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    text-align: start;
+ 
+}
+
+
+.mainCafe h1{
+    font-weight: 600;
+    color: #1a1a1a;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 60%;
+
+}
+
+.detalles span{
+    color: #1a1a1a;
+    width: 60%;
+    font-weight: 600;
+}
+
+.detalles{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    align-items: center;
+ 
+}
+.be{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    width: 60%;
+    height: 60px;
+    justify-content: start;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+}
+
+.be h3{
+    font-weight: 500;
+    color: #1a1a1a;
+ 
+}
