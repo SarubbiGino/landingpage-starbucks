@@ -1,7 +1,7 @@
 .grid{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 40px;
+    grid-gap: 80px;
     justify-items: center;
     align-items: center;
     justify-content: center;
@@ -24,6 +24,8 @@
 
 .card img{
     border-radius: 100%;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
 }
 
 .info h3{
@@ -38,6 +40,13 @@
     color: #1a1a1a;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+
+/*HOVER*/
+
+.card img:hover{
+    transform: scale(.9);
 }
 
 
