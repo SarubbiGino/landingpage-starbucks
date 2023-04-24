@@ -82,7 +82,9 @@
       gap: 0;
     }
   
-   
+   .header ul {
+      display: none;
+    }
   
     .header img {
       width: 100px;
@@ -96,4 +98,6 @@
       width: 50px;
     }
   }
+  
+
   
