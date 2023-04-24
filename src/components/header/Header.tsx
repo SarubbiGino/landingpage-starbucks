@@ -25,7 +25,9 @@ function Header() {
   return (
     <header ref={headerRef} className={`header ${showHeader ? "show" : ""}`}>
       <div className="container-nav">
-        <img src={Logo} alt="Logo" />
+        <Link to='/'>
+        <img src={Logo} alt="Logo"  />
+        </Link>
         <ul>
           <Link to="/">
           <li>

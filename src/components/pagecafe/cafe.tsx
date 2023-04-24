@@ -1,4 +1,6 @@
 import "./cafe.css";
+import Card from "./card";
+
 
 function cafe() {
   return (
@@ -10,8 +12,8 @@ function cafe() {
           <h3>Bebidas</h3>
         </div>
       </div>
-      <div className="grid">
-        
+      <div className="carta">
+        <Card />
       </div>
     </main>
   );

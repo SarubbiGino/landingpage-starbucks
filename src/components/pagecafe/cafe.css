@@ -3,6 +3,7 @@
     flex-direction: column;
     margin-top: 150px;
     text-align: start;
+   
  
 }
 
@@ -46,4 +47,20 @@
     font-weight: 500;
     color: #1a1a1a;
  
+}
+.carta{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* MEDIA QUERYS */
+
+@media screen and (max-width: 768px){
+    .mainCafe{
+        height: 1100px;
+    }
 }
