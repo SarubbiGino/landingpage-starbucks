@@ -1,0 +1,89 @@
+.mainExp{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    text-align: center;
+    gap: 60px;
+    height: 1600px;
+    justify-content: center;
+    align-items: center;
+
+ 
+}
+
+.mainExp .titulos{
+    width: 100%;
+    text-align: center;
+    background-color:#1e3932;
+    height: 150px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.titulos h1{
+    font-weight: 800;
+}
+
+.sub{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.sub h1{
+    font-weight: 700;
+    font-size: 30px;
+    width: 50%;
+
+
+}
+
+.contenedorEXP img{
+    width: 600px;
+    height: 350px;
+
+}
+
+.contenedorEXP{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    width: 90%;
+    text-align: center;
+    align-content: center;
+   
+ 
+}
+
+.contenedorEXP1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f0eb; 
+   
+    
+}
+
+.contenedorEXP1 h1{
+       font-size: calc(1.0875rem + 1.05vw);
+}
+
+.contenedorEXP1 div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+}
+
+.contenedorEXP1 h3{
+    width: 90%;
+}

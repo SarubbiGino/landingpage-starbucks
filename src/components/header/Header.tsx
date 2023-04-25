@@ -39,7 +39,7 @@ function Header() {
             CAFÉ
           </li>
           </Link>
-          <Link to="/experiencias">
+          <Link to="/pageExp">
           <li>
             EXPERIENCIAS STARBUCKS
           </li>
