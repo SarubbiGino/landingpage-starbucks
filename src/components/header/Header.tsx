@@ -67,7 +67,7 @@ function Header() {
           />
         </svg>
         <h3>
-          <a href="">LOCALIZAR TIENDA</a>
+          <a href="https://www.starbucks.com.ar/stores">LOCALIZAR TIENDA</a>
         </h3>
       </div>
     </header>

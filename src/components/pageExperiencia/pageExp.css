@@ -87,3 +87,35 @@
 .contenedorEXP1 h3{
     width: 90%;
 }
+
+
+/*MEDIA QUERYS */
+
+@media screen and (max-width: 768px) {
+    .mainExp{
+        height: 1950px;
+    }
+    .contenedorEXP img{
+        width: 400px;
+        height: 250px;
+    }
+    .contenedorEXP1 h1{
+        font-size: calc(1.0875rem + 1.05vw);
+        margin-top: 20px;
+    }
+    .contenedorEXP1 h3{
+        width: 90%;
+    }
+    .contenedorEXP1{
+        flex-direction: column;
+        gap: 40px;
+
+    }
+
+    .sub h1{
+        font-size: 20px;
+        width: 90%;
+    }
+}
+
+
