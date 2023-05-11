@@ -102,9 +102,11 @@
     .contenedorEXP1 h1{
         font-size: calc(1.0875rem + 1.05vw);
         margin-top: 20px;
+        color: rgb(41, 41, 41);
     }
     .contenedorEXP1 h3{
         width: 90%;
+        color: rgb(41, 41, 41);
     }
     .contenedorEXP1{
         flex-direction: column;
@@ -115,6 +117,7 @@
     .sub h1{
         font-size: 20px;
         width: 90%;
+        color: rgb(41, 41, 41);
     }
 }
 
